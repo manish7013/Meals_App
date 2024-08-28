@@ -1,10 +1,11 @@
-# food_recipe
+# Meals_App
 
 A new Flutter project.
 
 ## Getting Started
+The Meals App is a mobile application developed using Flutter and Dart that provides users with a comprehensive platform to explore, discover, and manage meals. It features a user-friendly interface that allows users to browse a wide variety of recipes, filter meals by dietary preferences, and save their favorite dishes.
 
-This project is a starting point for a Flutter application.
+
 
 A few resources to get you started if this is your first Flutter project:
 
